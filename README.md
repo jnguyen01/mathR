@@ -17,7 +17,7 @@ if(!require(remotes)) {
 remotes::install_github("jnguyen01/mathR")
 ```
 
-## Example
+## Basic Example
 
 This is a basic example which shows you how to add two vectors:
 
